@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Деталь B",
+        "total_price": 440.0
+    },
+    {
+        "name": "Деталь C",
+        "total_price": 455.0
+    },
+    {
+        "name": "Деталь D",
+        "total_price": 465.0
+    },
+    {
+        "name": "Деталь E",
+        "total_price": 558.0
+    }
+]
